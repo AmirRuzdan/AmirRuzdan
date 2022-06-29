@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirRuzdan
-- 👀 I’m interested in Creative Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competetive Programming
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me ...instagram:@amir_ruzdan
 
 <!---
